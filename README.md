@@ -3,7 +3,7 @@ List all the cron job list
 
 This code help for list all cron job used in the site.
 
-If you used **<config_path>** and **<schedule>** both.
+If you used **<config_path>** and **< schedule >** both.
 Then **<config_path>** only works.
 
 
