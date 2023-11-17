@@ -18,3 +18,5 @@ $test = $objectManager->get(\Magento\Cron\Model\ConfigInterface::class);
 $jobs = $test->getJobs();
 echo "<pre>";
 print_r( $jobs );
+
+?>
