@@ -15,4 +15,4 @@ Schedule tag only works
 
 
 **Disable Cron :** (set cron for Feb 30)
-  <schedule>0 0 30 2 *</schedule>
+  < schedule >0 0 30 2 *< /schedule >
