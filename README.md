@@ -7,7 +7,8 @@ If you used **<config_path>** and **<schedule>** both.
 Then **<config_path>** only works.
 
 
-**<schedule>0 0 0 0 0</schedule>**
+**< schedule >0 0 0 0 0</ schedule >**
+
 **<config_path>0</config_path>**
 Here config_path tag not works.
 Schedule tag only works
